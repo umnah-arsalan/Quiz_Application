@@ -1,2 +1,7 @@
 # Quiz_Application
-We will build a Quiz Application that:  Loads questions from a file  Displays MCQs one by one  Accepts user answers  Calculates score  Displays final result
+We will build a Quiz Application that: 
+1. Loads questions from a file
+2. Displays MCQs one by one
+3. Accepts user answers
+4. Calculates score
+5. Displays final result
